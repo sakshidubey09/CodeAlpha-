@@ -1,9 +1,9 @@
 # Task 1 - Credit Scoring System
 
-#### Overview
+### Overview
 This project implements a Support Vector Machine (SVM) model to predict the creditworthiness of individuals using historical financial data. The model is trained on features such as age, number of past due payments, debt ratio, monthly income, and number of dependents. The SVM algorithm is employed for its ability to handle both linear and non-linear relationships in the data.
 
-#### How to Use
+### How to Use
 Dataset: Obtain the credit scoring dataset, including features such as age, past due payments, debt ratio, monthly income, and number of dependents.
 
 Data Preprocessing: Ensure that the dataset is preprocessed, handling missing values and scaling features for optimal SVM performance.
@@ -12,7 +12,7 @@ Train the SVM Model: Utilize the provided code to train the SVM model on your pr
 
 Evaluate the Model: Assess the model's accuracy, confusion matrix, and classification report to understand its predictive performance.
 
-#### Key Features
+### Key Features
 
 Support Vector Machine (SVM): Employs a powerful machine learning algorithm for credit scoring, capable of capturing complex relationships in the financial data.
 
@@ -22,6 +22,6 @@ Creditworthiness Prediction: The model predicts the creditworthiness of individu
 
 Model Evaluation: Utilizes accuracy and other classification metrics to evaluate the SVM model's performance.
 
-#### Dataset
+### Dataset
 Kaggle: https://www.kaggle.com/datasets/kashnitsky/mlcourse
 
